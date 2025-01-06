@@ -1,2 +1,4 @@
-# marina_onufrienko.github.io
-marina_onufrienko.github.io
+## Hello, world! 
+#I'm Marina
+- PSU master student
+- Teacher
